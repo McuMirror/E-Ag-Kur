@@ -1,0 +1,19 @@
+[Desktop Entry]
+Comment[tr]=
+Comment=
+Exec=/usr/bin/E-Ag
+GenericName[tr]=E-Ag
+GenericName=E-Ag
+Icon=/usr/bin/E-Ag.png
+MimeType=
+Name[tr]=E-Ag
+Name=E-Ag
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
